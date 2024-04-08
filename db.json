@@ -1,0 +1,31 @@
+{
+    "phanitApi":[
+        {
+            "name":"Phanit",
+            "Api":"real-word",
+            "student":"RUPP",
+            "data":[
+                {
+                    "product":"Shoes",
+                    "name":"Nike",
+                    "description":"women's Kinvara 14",
+                    "price":119.95,
+                    "Image":["https://th.bing.com/th/id/OIP.S813CXRLlzjK3JtyxVOlSgHaHa?rs=1&pid=ImgDetMain","https://www.sneakersnstuff.com/images/66627/am9.jpg"],
+                    "size":[40,41,42],
+                    "stock":499,
+                    "color":["orange","green"]
+                },
+                {
+                    "product":"Shoes",
+                    "name":"Adidas",
+                    "description":"good brand for men",
+                    "price":239.25,
+                    "Image":["https://i.pinimg.com/736x/ad/e0/8a/ade08a30af7db1ce38263fa2f0e55c0f--vintage-adidas-prezzo.jpg","https://s-media-cache-ak0.pinimg.com/originals/90/67/d4/9067d4c6199c31b0f2c510e93a64ab3b.jpg"],
+                    "size":[39,41,42],
+                    "stock":829,
+                    "color":["blue","yellow"]
+                }
+            ]
+        }
+    ]
+}
